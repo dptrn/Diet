@@ -1,0 +1,283 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.flex4{
+    display: flex;
+    justify-content: center;
+    margin-right:250px;
+}
+.nav .flex4 .logo_part img{
+    width: 200px;
+    height: 150px;
+    border-radius:5px 5px;
+    margin: 5px;
+}
+.nav .flex4 .heading h1{
+    color: brown;
+    letter-spacing: 10px;
+    font-size: 70px;
+    }
+    .nav .flex4 .heading p{
+        color: white;
+        margin-bottom: 10px;
+        letter-spacing: 5px;
+    }
+.nav1{
+    
+    background-color: orange;
+    color: white;
+    width: 27vw;
+    height:15vh;
+    font-size: 15px;
+    
+}
+.logo_part1 img{
+    width: 5%;
+    height: 5%;
+}
+.nav2{
+    float: right;
+    background-color:skyblue ;
+    color: white;
+    width: 27vw;
+    height: 15vh;
+    
+}
+.logo_part2 i{
+    width: 10%;
+    height: 10%;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.nav3{
+    
+    background-color: red;
+    color: white;
+    width: 54vw;
+    height:15vh;
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-left: 344px;
+}
+.nav3{
+    display: flex;
+    padding: 5px;
+}
+.nav3 .heading3 h1{
+    letter-spacing: 3px;
+}
+.nav3 .heading3 h3{
+    text-decoration: underline;
+}
+
+.nav4{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: skyblue;
+    color: white;
+    width: 54vw;
+    height: 15vh;
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-left: 344px;
+    padding: 5px;
+}
+.nav4 .paragraph{
+    margin-inline-start: 10px;
+    margin-top: 18px;
+
+}
+.nav4 .heading4 h1{
+    letter-spacing: 3px;
+}
+.nav4 p{
+    font-size: 15px;
+}
+.nav5{
+    
+    background-color: orange;
+    color: white;
+    width: 27vw;
+    height:15vh;
+    font-size: 15px;
+    padding: 10px;
+    
+}
+
+.nav5 .heading5 img{
+    height: 70px;
+    width: 70px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+    
+}
+.nav5 .heading5 p{
+    position: absolute;
+    z-index: 10;
+    width: 300px;
+    letter-spacing: 3px;
+    opacity: 0.8;
+}
+
+.nav6{
+    float: right;
+    background-color:skyblue ;
+    color: white;
+    width: 27vw;
+    height:15vh;
+    font-size: 15px;
+    
+}
+.logo_part6 img{
+    width: 100px;
+    height: 100px;
+    padding:5px;
+    margin-top: 5px;
+}
+
+.flex{
+    display: flex;
+}
+.nav6 .para6 p{
+    padding: 5px;
+    margin-top: 15px;
+    letter-spacing: 3px;
+    opacity: 0.8;
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+.nav7{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:skyblue;
+    color: white;
+    width: 54vw;
+    height: 15vh;
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-left: 344px;
+}
+.flex1{
+    display: flex;
+}
+.nav7 .flex1 .img7 img{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav7 .flex1 .heading7 .weight{
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 30px;
+
+}
+.nav7 .flex1 .heading7 p{
+    letter-spacing: 3px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    
+}
+.nav8{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:orange;
+    color: white;
+    width: 54vw;
+    height: 15vh;
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-left: 344px;
+}
+.flex2{
+    display: flex;
+}
+.nav8 .flex2 .img8 img{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav8 .flex2 .heading8 .weight1{
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 30px;
+
+}
+.nav8 .flex2 .heading8 p{
+    letter-spacing: 3px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    
+}
+.nav9{
+    
+    background-color: orange;
+    color: white;
+    width: 27vw;
+    height:15vh;
+    font-size: 15px;
+    
+}
+.logo_part9 img{
+    width: 100px;
+    height: 100px;
+    padding:5px;
+    margin-top: 5px;
+}
+
+.flex3{
+    display: flex;
+}
+.nav9 .para9 p{
+    padding: 5px;
+    margin-top: 15px;
+    letter-spacing: 3px;
+    opacity: 0.8;
+}
+.nav9 .para9 h1{
+    letter-spacing: 3px;
+}
+.nav10{
+    float: right;
+    background-color:skyblue ;
+    color: white;
+    width: 27vw;
+    height:15vh;
+    font-size: 15px;
+    
+}
+.nav10 .heading10 h1{
+    font-size: 15px;
+    font-weight: bold;
+}
+.nav10 .heading10 p{
+    opacity: 0.8;
+}
+.nav10 .heading10{
+    padding: 5px;
+}
+.main3{
+    display: flex;
+    justify-content: center;
+}
